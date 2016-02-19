@@ -32,8 +32,7 @@
 .jumbotron p {
   font-size: 20px;
   color: #fff;
-  font-weight: bold;
-  text-shadow: 2px black;
+  text-shadow: 2px 2px	#000000;
 }
 
 .learn-more {
